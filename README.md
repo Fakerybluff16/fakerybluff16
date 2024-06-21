@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo a meu perfil 🖤
 
-<!--
-**Fakerybluff16/fakerybluff16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Lucas Santaniello e este é meu ambiente para compartilhamento de meus projetos.
+- Estudo na plataforma Alura
+- Estou desenvolvendo programas na linguagem Javascript
+- Gosto de compartilhar informações com outros perfis iguais ao meu.
 
-Here are some ideas to get you started:
+  ## Entre em contato atraves do email 📧
+  fakery150688@gmail.com
+  
+  @Santt016
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://static.wixstatic.com/media/c61a3e_a8c2505c44f343f3acf6265904c96dec~mv2.gif)
